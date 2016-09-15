@@ -71,5 +71,6 @@ for dataset in filein:
 
 # We have the "trained" matrix
 #TODO: Implement "learning" function
+print(classify[0])
 
 filein.close()
